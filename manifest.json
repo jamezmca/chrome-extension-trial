@@ -1,0 +1,14 @@
+{
+    "name": "To Learn List",
+    "version": "0.01",
+    "description": "Make a browser to learn list",
+    "browser_action": {
+        "default_title": "Popout HTML",
+        "default_popup": "popout.html"
+    },
+    "manifest_version": 2,
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
+}
